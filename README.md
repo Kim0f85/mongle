@@ -1,5 +1,9 @@
-# mongle
+# Mongle
 자산 관리 프로그램
+# 0. PPT 요약본
+https://accountbook.my.canva.site/project-mongle
+
+---
 
 # 1. 프로젝트 기획서
 https://docs.google.com/document/d/1ZdwOrBu0cFKT696e7evV3AWndn-UIsmWMmrn85uw_tA/edit
